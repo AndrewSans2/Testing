@@ -1,2 +1,2 @@
 # LGHr
-LGH ver. 1.0
+LGH1 ver. 2.0
